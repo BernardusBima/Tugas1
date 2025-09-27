@@ -9,14 +9,11 @@ Repositori ini berisi pengerjaan tugas praktikum untuk mata kuliah **[Rekayasa W
 Tugas ini terdiri dari dua bagian utama:
 
 1.  **Soal 1: Encode Array ke JSON**
-    Membuat sebuah variabel array PHP, kemudian melakukan *encode* (mengubah) array tersebut menjadi sebuah string berformat JSON.
+    Buat sebuah variabel array, lalu encode ke format JSON.
 
 2.  **Soal 2: Decode JSON ke PHP Object & Array**
-    Membuat sebuah variabel yang berisi string JSON, kemudian melakukan *decode* (mengurai) string tersebut ke dalam dua bentuk:
-    * PHP Generic Object
-    * PHP Array
-    
-    Setelah di-decode, script akan mengakses dan menampilkan nilai dari kedua hasil tersebut.
+    Buat sebuah variabel yang berisi json, lalu decode variabel tersebut ke dalam bentuk PHP
+    Object dan PHP Array, kemudian akses nilai pada variabel hasil decode tersebut masing-masing.
 
 ---
 
