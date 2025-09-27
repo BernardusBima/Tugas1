@@ -1,6 +1,6 @@
 # Tugas 1: Implementasi JSON pada PHP
 
-Repositori ini berisi pengerjaan tugas untuk mata kuliah **[Rekayasa Web]**. Tugas ini berfokus pada penggunaan dan manipulasi data berformat JSON (JavaScript Object Notation) menggunakan bahasa pemrograman PHP.
+Repositori ini berisi pengerjaan tugas praktikum untuk mata kuliah **[Rekayasa Web]**. Tugas ini berfokus pada penggunaan dan manipulasi data berformat JSON (JavaScript Object Notation) menggunakan bahasa pemrograman PHP.
 
 ---
 
