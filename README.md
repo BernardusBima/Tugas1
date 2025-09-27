@@ -37,7 +37,7 @@ Untuk menjalankan script ini di lingkungan lokal, ikuti langkah-langkah berikut:
 
 1.  **Clone Repositori**
     ```bash
-    git clone [https://github.com/](https://github.com/)[username-anda]/[nama-repositori-anda].git
+    git clone [https://github.com/](https://github.com/)[BernardusBima]/[Tugas1].git
     ```
 
 2.  **Pindahkan Folder**
