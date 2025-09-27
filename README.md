@@ -60,5 +60,5 @@ Untuk menjalankan script ini di lingkungan lokal, ikuti langkah-langkah berikut:
 
 * **Nama:** [Bernardus Bima Satria]
 * **NIM/NPM:** [G.231.23.0057]
-* **Kelas:** [Teknik Informarika A2]
+* **Kelas:** [Teknik Informatika A2]
 * **Dosen Pengampu:** [Dicky Yudha Pratama, M.Kom]
