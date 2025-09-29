@@ -29,10 +29,10 @@ Tugas ini terdiri dari dua bagian utama:
 Berikut adalah hasil screenshot dari output kedua script saat dijalankan di browser.
 
 ### Soal 1
-![Hasil Soal 1](https://raw.githubusercontent.com/BernardusBima/Tugas1/images/screenshot1.png)
+![Hasil Soal 1](https://raw.githubusercontent.com/BernardusBima/Tugas1/main/images/screenshot1.png)
 
 ### Soal 2
-![Hasil Soal 2](https://raw.githubusercontent.com/BernardusBima/Tugas1/images/screenshot2.png)
+![Hasil Soal 2](https://raw.githubusercontent.com/BernardusBima/Tugas1/main/images/screenshot2.png)
 
 ---
 
