@@ -1,6 +1,6 @@
 # Tugas 1: Implementasi JSON pada PHP
 
-Repositori ini berisi pengerjaan tugas praktikum untuk mata kuliah **[Rekayasa Web]**. Tugas ini berfokus pada penggunaan dan manipulasi data berformat JSON (JavaScript Object Notation) menggunakan bahasa pemrograman PHP.
+Repositori ini berisi pengerjaan tugas praktikum untuk mata kuliah **Rekayasa Web**. Tugas ini berfokus pada penggunaan dan manipulasi data berformat JSON (JavaScript Object Notation) menggunakan bahasa pemrograman PHP.
 
 ---
 
@@ -24,6 +24,18 @@ Tugas ini terdiri dari dua bagian utama:
 
 ---
 
+## 📸 Hasil Screenshot
+
+Berikut adalah hasil screenshot dari output kedua script saat dijalankan di browser.
+
+### Soal 1
+![Hasil Soal 1](https://raw.githubusercontent.com/BernardusBima/Tugas1/images/screenshot1.png)
+
+### Soal 2
+![Hasil Soal 2](https://raw.githubusercontent.com/BernardusBima/Tugas1/images/screenshot2.png)
+
+---
+
 ## ⚙️ Teknologi yang Digunakan
 
 * **PHP 8.1** (atau versi yang kompatibel)
@@ -37,28 +49,26 @@ Untuk menjalankan script ini di lingkungan lokal, ikuti langkah-langkah berikut:
 
 1.  **Clone Repositori**
     ```bash
-    git clone [https://github.com/](https://github.com/)[BernardusBima]/[Tugas1].git
+    git clone [https://github.com/BernardusBima/Tugas1.git](https://github.com/BernardusBima/Tugas1.git)
     ```
 
 2.  **Pindahkan Folder**
     Pindahkan folder hasil clone ke dalam direktori `htdocs` pada instalasi XAMPP Anda.
-    (Contoh path: `C:\xampp\htdocs\nama-folder-projek`)
+    (Contoh path: `C:\xampp\htdocs\Tugas1`)
 
 3.  **Jalankan XAMPP**
     Buka XAMPP Control Panel, lalu jalankan service **Apache**.
 
 4.  **Buka di Browser**
     Buka browser Anda dan akses URL berikut:
-    * Untuk Soal 1: `http://localhost/nama-folder-projek/soal1.php`
-    * Untuk Soal 2: `http://localhost/nama-folder-projek/soal2.php`
-
-    *Ganti `nama-folder-projek` dengan nama folder tempat Anda menyimpan file ini.*
+    * Untuk Soal 1: `http://localhost/Tugas1/soal1.php`
+    * Untuk Soal 2: `http://localhost/Tugas1/soal2.php`
 
 ---
 
 ## 👨‍🎓 Informasi Mahasiswa
 
-* **Nama:** [Bernardus Bima Satria]
-* **NIM/NPM:** [G.231.23.0057]
-* **Kelas:** [Teknik Informatika A2]
-* **Dosen Pengampu:** [Dicky Yudha Pratama, M.Kom]
+* **Nama:** Bernardus Bima Satria
+* **NIM/NPM:** G.231.23.0057
+* **Kelas:** Teknik Informatika A2
+* **Dosen Pengampu:** Dicky Yudha Pratama, M.Kom
